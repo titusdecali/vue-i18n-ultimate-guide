@@ -8,7 +8,7 @@
 <h3 align="center" font-weight="bold">
 The fastest way to translate Vue projects of any size or language count
   </h4>
-
+<br/>
 <hr/>
 
 ## Packages used
@@ -16,12 +16,12 @@ The fastest way to translate Vue projects of any size or language count
 ##### vue-clickaway
 ##### vue-translation-manager
 
-
+<br/>
 
 ## Additional items
 ##### I also recommends you use BabelEdit to manage translations (Available for Mac & Windows)
 ##### https://www.codeandweb.com/babeledit  (free to use + paid option to get more automatic Google translation queries)
-
+<br/>
 <hr/>
 
 
