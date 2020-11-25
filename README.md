@@ -9,21 +9,24 @@
 Translate Vue projects of any size or language count in just a few short hours
   </h4>
 
-
-### This project uses the following packages:
-#### vue-i18n
-#### vue-clickaway
-#### vue-translation-manager
 <hr/>
 
-### I also recommends you use BabelEdit to manage translations
-#### https://www.codeandweb.com/babeledit (free to use + paid option to get more automatic Google translation queries)
-<br/>
+## Packages used
+##### vue-i18n
+##### vue-clickaway
+##### vue-translation-manager
+
+
+
+## Additional items
+##### I also recommends you use BabelEdit to manage translations (Available for Mac & Windows)
+##### https://www.codeandweb.com/babeledit  (free to use + paid option to get more automatic Google translation queries)
+
 <hr/>
-<br/>
-## Use this to get up and running quick with vue-i18n + a beautiful language switcher component.
+
 
 ## Project setup
+
 
 ```
 npm install
