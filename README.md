@@ -1,12 +1,26 @@
 
-<p align="center"><a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://github.com/titusdecali/i18n-ultimate-guide/blob/master/src/assets/cover.jpg?raw=true"></a></p>
+<p align="center">
+   <a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer">
+     <img width="600" src="https://github.com/titusdecali/i18n-ultimate-guide/blob/master/public/cover.jpg">
+   </a>
+</p>
 
-## This repo is designed as a reference for my Medium article that outlines the easiest, and most optimized way to create and manage multilingual Vue projects
+<h3 align="center" font-weight="bold">
+Translate Vue projects of any size or language count in just a few short hours
+  </h4>
 
-[Read the Medium article here](https://medium.com/@titusdecali/vue-i18n-ultimate-guide)
 
+### This project uses the following packages:
+#### vue-i18n
+#### vue-clickaway
+#### vue-translation-manager
+<hr/>
 
-
+### I also recommends you use BabelEdit to manage translations
+#### https://www.codeandweb.com/babeledit (free to use + paid option to get more automatic Google translation queries)
+<br/>
+<hr/>
+<br/>
 ## Use this to get up and running quick with vue-i18n + a beautiful language switcher component.
 
 ## Project setup
@@ -26,19 +40,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your end-to-end tests
-
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
