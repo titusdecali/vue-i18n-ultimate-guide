@@ -1,4 +1,11 @@
-# i18n-ultimate-guide
+
+## This repo is designed as a reference for my Medium article that outlines the easiest, and most optimized way to create and manage multilingual Vue projects
+
+[READ THE ARTICLE](https://medium.com/@titusdecali)
+
+
+
+## Use this to get up and running quick with vue-i18n + a beautiful language switcher component.
 
 ## Project setup
 
