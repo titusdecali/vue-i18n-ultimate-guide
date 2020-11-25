@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center" font-weight="bold">
-The fastest way to translate Vue projects of any size or language count
+This repo was built to show the steps in my Medium article  <a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer">"Translate Any Vue App in 1 Hour"</a>, and to host my custom language switching component. Feel free to use anything here in your personal or commercial projects.
   </h4>
 <br/>
 <hr/>
