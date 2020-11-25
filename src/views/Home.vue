@@ -7,6 +7,12 @@
       {{ $t("message") }}
     </div>
 
+    <!-- Text string for you to try. Just type 'vue-translation-manager translate' in your terminal -->
+    <div class="i18nText">
+      Text for you to try translating. Just type 'vue-translation-manager
+      translate' in your terminal
+    </div>
+
     <!-- Custom language switcher -->
     <LanguageSwitcher />
   </div>
