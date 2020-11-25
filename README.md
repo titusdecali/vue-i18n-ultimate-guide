@@ -1,7 +1,9 @@
 
+<p align="center"><a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer"><img width="100%" src="https://github.com/titusdecali/i18n-ultimate-guide/blob/master/src/assets/cover.jpg?raw=true"></a></p>
+
 ## This repo is designed as a reference for my Medium article that outlines the easiest, and most optimized way to create and manage multilingual Vue projects
 
-[READ THE ARTICLE](https://medium.com/@titusdecali)
+[Read the Medium article here](https://medium.com/@titusdecali/vue-i18n-ultimate-guide)
 
 
 
