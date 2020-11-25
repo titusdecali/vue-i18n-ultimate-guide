@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center" font-weight="bold">
-Translate Vue projects of any size or language count in just a few short hours
+The fastest way to translate Vue projects of any size or language count
   </h4>
 
 <hr/>
