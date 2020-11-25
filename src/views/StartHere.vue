@@ -4,9 +4,7 @@
 
     <!-- Text example for i18n -->
     <div class="i18nText">
-      <div class="i18nText">
-        {{ $t("message") }}
-      </div>
+      {{ $t("message") }}
 
       <!-- Text string for you to try. Just type 'vue-translation-manager translate' in your terminal -->
       <div class="mt-5">
@@ -16,20 +14,15 @@
 
       <div class="mt-5 bold">Translate this text</div>
     </div>
-    <!-- Custom language switcher -->
-    <LanguageSwitcher />
   </div>
 </template>
 
 <script>
-import LanguageSwitcher from "@/components/LanguageSwitcher.vue";
 
 export default {
-  name: "Home",
-  components: {
-    LanguageSwitcher
-  }
-};
+  name: "Home"
+}
+
 </script>
 
 

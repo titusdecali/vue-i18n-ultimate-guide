@@ -1,8 +1,22 @@
 <template>
   <div id="app">
     <router-view />
+
+    <!-- Custom language switcher -->
+    <LanguageSwitcher />
   </div>
 </template>
+
+<script>
+import LanguageSwitcher from "@/components/LanguageSwitcher.vue";
+
+export default {
+  components: {
+    LanguageSwitcher
+  }
+}
+
+</script>
 
 <style lang="scss">
 #app {
