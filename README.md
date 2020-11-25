@@ -1,4 +1,6 @@
 
+[My image](titusdecali.github.com/i18n-ultimate-guide/src/assets/cover.jpg)
+
 ## This repo is designed as a reference for my Medium article that outlines the easiest, and most optimized way to create and manage multilingual Vue projects
 
 [READ THE ARTICLE](https://medium.com/@titusdecali)
