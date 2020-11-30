@@ -20,7 +20,7 @@ This repo was built to show the steps in my Medium article  <a href="https://med
 
 ## Additional items
 ##### I also recommends you use BabelEdit to manage translations (Available for Mac & Windows)
-##### https://www.codeandweb.com/babeledit  (free to use + paid option to get more automatic Google translation queries)
+##### https://www.codeandweb.com/babeledit  (Has a trial, and the paid option to get more automatic Google translation queries is incredibly reasonable)
 <br/>
 <hr/>
 
