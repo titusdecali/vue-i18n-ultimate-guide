@@ -1,12 +1,12 @@
 
 <p align="center">
-   <a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer">
+   <a href="https://medium.com/better-programming/vue-i18n-ultimate-guide-fb3d9db48c94" target="_blank" rel="noopener noreferrer">
      <img width="600" src="https://github.com/titusdecali/i18n-ultimate-guide/blob/master/public/cover.jpg">
    </a>
 </p>
 
 <h3 align="center" font-weight="bold">
-This repo was built to show the steps in my Medium article  <a href="https://medium.com/@titusdecali/vue-i18n-ultimate-guide" target="_blank" rel="noopener noreferrer">"Translate Any Vue App in 1 Hour"</a>, and to host my custom language switching component. Feel free to use anything here in your personal or commercial projects.
+This repo was built to show the steps in my Medium article  <a href="https://medium.com/better-programming/vue-i18n-ultimate-guide-fb3d9db48c94" target="_blank" rel="noopener noreferrer">"Translate Any Vue App in 1 Hour"</a>, and to host my custom language switching component. Feel free to use anything here in your personal or commercial projects.
   </h4>
 <br/>
 <hr/>
