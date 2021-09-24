@@ -26,7 +26,7 @@ This repo was built to show the steps in my Medium article  <a href="https://med
 
 
 ## VUE 3 Update:
-For user of Vue 3, please use the gist below to setup your main.js file. 
+For users of Vue 3, please use the gist below to setup your main.js file. 
 Everything outside of main.js is exactly the same as Vue 2.
 
 https://gist.github.com/titusdecali/4ec3cdd8e8ce54e5e65785001d44d6aa
